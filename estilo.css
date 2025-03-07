@@ -6,8 +6,22 @@ p {
     color: green;
 }
 
-.primeira-div {
+div {
+
+    margin: 1rem;
+}
+
+#primeira-div {
     color: white;
     background: red;
     padding: 1rem;
+}
+
+.item {
+
+    color: yellow;
+    background: pink;
+    padding: 1rem;
+    width: 6rem;
+    border-radius: 1rem;
 }
